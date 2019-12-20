@@ -54,14 +54,14 @@ sufficient to:
 ---
 <div style="page-break-after: always;"></div>
 
-## <center> <a name="design_layout"/a>Course Plan
+## <center> <a name="design_layout"/> Course Plan
 
 * Seven general topics with specific, up-to-date content
     * <a href="../installation/install.md">Installation</a>
     * <a href="../storage/hdfs_testing.md">Storage</a>
     * <a href="../resources/yarn_rm.md">Resource Management</a>
     * <a href="../enterprise/cm.md">Using Cloudera Manager</a>
-    * <a href="../security/overview_kerberos_sentry.md">Enterprise Security</a>
+    * <a href="../security/overview-kerberos-sentry.md">Enterprise Security</a>
     * <a href="../clients/hue.md">Supporting Hadoop Clients</a>
     * <a href="../troubleshooting/tech_support.md">Technical Resources</a>
 
