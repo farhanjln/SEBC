@@ -45,7 +45,7 @@ sufficient to:
 ---
 <div style="page-break-after: always;"></div>
 
-## <center> <a name="course_objectives"/a> Course Objectives
+## <center> <a name="course_objectives"/> Course Objectives
 
 * Prepare you to install CM/CDH clusters for production
 * Evaluate your readiness for engagements
